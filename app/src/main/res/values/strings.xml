@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyQuizAppBeta</string>
+    <string name="welcome">Welcome</string>
+    <string name="enterName">Please enter your name.</string>
+    <string name="quiz_app">QuizApp</string>
+    <string name="name">Name</string>
+    <string name="result">Result</string>
+    <string name="btnRandomName">Losuj</string>
+    <string name="numB1and20">1-20</string>
+    <string name="numB21and30">21-30</string>
+    <string name="numB31and49">31-49</string>
+    <string name="plus">+</string>
+    <string name="equals">=</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="zero">0</string>
+    <string name="cClean">C</string>
+    <string name="zatwierdz">Zatwierdź</string>
+    <string name="punkty">Punkty:</string>
+</resources>
