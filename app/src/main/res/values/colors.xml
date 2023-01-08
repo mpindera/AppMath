@@ -7,6 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bgColorBlack">#0F0F10</color>
+    <color name="bgColorBlue">#3E5685</color>
     <color name="bg">#131313</color>
     <color name="clikC">#F1F1F1</color>
+    <color name="mainColorGame">#C2C2F6</color>
 </resources>
